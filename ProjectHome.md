@@ -1,0 +1,1 @@
+Sultan is a human computer interaction program which provides humans with the ability to interact with a computer using natural language and speech.
